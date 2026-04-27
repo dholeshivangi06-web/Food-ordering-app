@@ -1,0 +1,6 @@
+{
+  "name": "Foodiez",
+  "description": "A premium food discovery and ordering platform inspired by Zomato, featuring real-time search, category filtering, and a seamless checkout experience.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
